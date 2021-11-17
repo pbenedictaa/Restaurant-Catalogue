@@ -1,0 +1,59 @@
+{
+    "name": "Restaurant Catalogue Lite",
+    "short_name": "Restaurant Lite",
+    "description": "Find your favorite restaurant here",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#d84315",
+    "icons": [
+        {
+            "src": "/icons/icon-72x72.png",
+            "sizes": "72x71",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-96x96.png",
+            "sizes": "96x95",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-128x128.png",
+            "sizes": "128x127",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-152x152.png",
+            "sizes": "152x151",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-192x192.png",
+            "sizes": "192x191",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-384x384.png",
+            "sizes": "384x383",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x511",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
